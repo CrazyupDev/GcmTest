@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "june2-1242",
+    "project_number": "395026663393",
+    "name": "june2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395026663393:android:39b7e8db1cd30384",
+        "client_id": "android:com.june2.test.gcm",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.june2.test.gcm",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
